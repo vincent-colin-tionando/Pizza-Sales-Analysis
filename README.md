@@ -52,6 +52,7 @@ The dataset consists of three tables with **48,620 records** covering a full yea
 ## Analysis
 ### Monthly Performances
 <img width="476" height="248" alt="Screenshot 2026-10-12 040629" src="https://github.com/user-attachments/assets/d2fe5e5f-c648-495b-b12c-5d8feda0b54a" />
+
 1. **July** was the best-performing month, generating **$72.6K in revenue, 1.9K orders, and 4.4K pizzas sold.**
 2. **October** was the lowest-performing month, with **$64K in revenue, 1.6K orders, and 3.9K pizzas sold,** despite a relatively high **AOV of $38.9.**
 3. **Q4** recorded the highest AOV, averaging around **$38 per order**, potentially driven by holiday spending.
@@ -59,18 +60,21 @@ The dataset consists of three tables with **48,620 records** covering a full yea
 
 ### Daily Performances
 <img width="475" height="249" alt="Screenshot 2026-10-12 040645" src="https://github.com/user-attachments/assets/6d9f7561-909f-41b1-a757-9df84a1b5ac9" />
+
 1. **Friday** was the best-performing day, generating **$136.1K in revenue, 3.5K orders, and 8.2K pizzas sold.**
 2. **Sunday** was the lowest-performing day, with **$99.2K in revenue, 2.6K orders, and 6K pizzas sold.**
 3. **AOV and Revenue per Pizza** remained stable, averaging **$38 per order and $16.50 per pizza**, indicating sales differences were driven mainly by order volume.
 
 ### Hourly Performances
 <img width="476" height="250" alt="Screenshot 2026-10-12 040656" src="https://github.com/user-attachments/assets/f1d332df-f98f-49ef-a894-247029294674" />
+
 1. **12 PM** was the strongest sales hour, generating $111.9K in revenue, 2.5K orders, and 6.8K pizzas sold.
 2. **6 PM** marked a secondary sales peak, generating $89.3K in revenue, 2.4K orders, and 5.4K pizzas sold.
 3. **AOV and Revenue per Pizza** remained stable during operating hours at $37–$40 per order and around $16.50 per pizza, with higher early-morning averages driven by low sales volume.
 
 ### Top 5 Pizza Performances
 <img width="476" height="250" alt="Screenshot 2026-10-12 040708" src="https://github.com/user-attachments/assets/475b6a78-1634-4562-a4c1-00ccabb95835" />
+
 1. **Thai Chicken Pizza** led revenue, generating **$43.4K from 2.2K orders and 2.4K pizzas sold, at $18.32 per pizza.**
 2. **Classic Deluxe Pizza** led sales volume, with **2.3K orders, 2.5K pizzas sold, and $38.2K in revenue.**
 3. **Barbecue Chicken Pizza** ranked second in revenue, generating **$42.8K from 2.3K orders and 2.4K pizzas sold.**
@@ -79,6 +83,7 @@ The dataset consists of three tables with **48,620 records** covering a full yea
 
 ### Bottom 5 Pizza Performances
 <img width="476" height="248" alt="Screenshot 2026-10-12 040727" src="https://github.com/user-attachments/assets/60076a3b-29c5-4fb0-b60b-8a295441d2f7" />
+
 1.** Vegetable-based pizzas **dominated the bottom 5, indicating lower demand than meat-based options.
 2. **Brie Carré** had the lowest total revenue at **$11.6K from 480 orders**, despite the highest **revenue per pizza ($23.65).**
 3. **Spinach Supreme and Mediterranean pizzas** consistently underperformed in revenue, orders, and quantities sold.
