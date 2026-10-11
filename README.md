@@ -84,7 +84,7 @@ The dataset consists of three tables with **48,620 records** covering a full yea
 ### Bottom 5 Pizza Performances
 <img width="476" height="248" alt="Screenshot 2026-10-12 040727" src="https://github.com/user-attachments/assets/60076a3b-29c5-4fb0-b60b-8a295441d2f7" />
 
-1. ** Vegetable-based pizzas **dominated the bottom 5, indicating lower demand than meat-based options.
+1. **Vegetable-based pizzas** dominated the bottom 5, indicating lower demand than meat-based options.
 2. **Brie Carré** had the lowest total revenue at **$11.6K from 480 orders**, despite the highest **revenue per pizza ($23.65).**
 3. **Spinach Supreme and Mediterranean pizzas** consistently underperformed in revenue, orders, and quantities sold.
 4. **Green Garden Pizza** ranked second-lowest in revenue, generating **$14K at $14 per pizza.**
