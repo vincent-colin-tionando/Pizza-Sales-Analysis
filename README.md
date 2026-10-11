@@ -17,6 +17,10 @@ The lack of structured sales performance analysis makes it difficult to identify
 The business also needs to evaluate which pizza products should be retained, improved, or potentially removed based on their sales performance.
 
 ## Data Profile
+A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+
+Source:
+https://mavenanalytics.io/data-playground/pizza-place-sales
 
 The dataset consists of three tables with **48,620 records** covering a full year of pizza sales transactions.
 
@@ -26,4 +30,13 @@ The dataset consists of three tables with **48,620 records** covering a full yea
 | `orders` | Order-level data (`order_id`, `date`, `time`, `Day Name`) |
 | `pizzas` | Pizza details data (`pizza_id`, `pizza_type_id`, `name`, `size`, `category`, `ingredients`, `price`) |
 ---
+
+## Business Objectives
+- Analyze Revenue, Orders, Quantity, and AOV performance.
+- Identify sales trends and ordering patterns. 
+- Evaluate the performance of individual pizza products. 
+- Identify high-performing and underperforming products. 
+- Provide recommendations for menu portfolio optimization. 
+<img width="802" height="252" alt="image" src="https://github.com/user-attachments/assets/0d80d227-7353-4beb-8bfe-f46556ecd421" />
+
 
