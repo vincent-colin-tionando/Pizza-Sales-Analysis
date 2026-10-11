@@ -22,6 +22,8 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 Source:
 https://mavenanalytics.io/data-playground/pizza-place-sales
 
+<img width="717" height="513" alt="image" src="https://github.com/user-attachments/assets/7a941570-65d7-484b-9477-5a77279cfc85" />
+
 The dataset consists of three tables with **48,620 records** covering a full year of pizza sales transactions.
 
 | Table | Description |
@@ -36,7 +38,20 @@ The dataset consists of three tables with **48,620 records** covering a full yea
 - Identify sales trends and ordering patterns. 
 - Evaluate the performance of individual pizza products. 
 - Identify high-performing and underperforming products. 
-- Provide recommendations for menu portfolio optimization. 
-<img width="802" height="252" alt="image" src="https://github.com/user-attachments/assets/0d80d227-7353-4beb-8bfe-f46556ecd421" />
+- Provide recommendations for menu portfolio optimization.
+
+## KPI Metrics
+<img width="509" height="168" alt="KPI Metrics" src="https://github.com/user-attachments/assets/3899c504-6c9a-462f-80a0-2d769489cd59" />
+
+### Key Findings
+1. **Revenue Performance:** 21.4K orders generated $817.9K in annual revenue.
+2. **Order Behavior:** 49.6K pizzas across 21.4K orders, averaging roughly 2 pizzas per order.
+3. **Monthly Performance:** July recorded the highest revenue and order volume.
+4. **Peak Demand:** Friday was the strongest sales day, with a pronounced peak during lunch hours.
+
+
+
+
+
 
 
